@@ -1,0 +1,29 @@
+{
+  "repo": "landr-studio-pro-mastering",
+  "product": "Landr Studio Pro Mastering",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://landr.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "landr",
+    "audio-mastering",
+    "online-mastering",
+    "music-mastering",
+    "loudness-optimization",
+    "mix-processing",
+    "music-production",
+    "mastering-tools",
+    "landr-setup-failed-fix",
+    "how-to-install-landr",
+    "landr-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 25,
+  "nexpath_slug": "landr",
+  "nexpath_app_name": "Landr Studio"
+}
